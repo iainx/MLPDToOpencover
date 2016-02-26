@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLPDToOpencover", "MLPDToOpencover\MLPDToOpencover.csproj", "{82AE5B92-D312-4DFB-AD52-2D4ED0C0C307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapShot.Reader", "..\xamarin\heap-shot\HeapShot.Reader\HeapShot.Reader.csproj", "{B3DF617E-A397-426C-847B-5D3DCEB57E51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapShot.Reader", "HeapShot.Reader\HeapShot.Reader.csproj", "{B3DF617E-A397-426C-847B-5D3DCEB57E51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
